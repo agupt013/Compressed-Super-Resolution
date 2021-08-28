@@ -5,7 +5,7 @@ Curated list of papers for compressed super-resolution
 
 | Title                  | Model                  | Published                                                    | Code                                                         | Keywords                                                     |
 | ---------------------- | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|Lossless Image Compression through Super-Resolution        |        -      | [Paper](https://arxiv.org/pdf/2004.02872.pdf)            | [Code](Code: https://github.com/caoscott/SReC)              | -      |
+|Lossless Image Compression through Super-Resolution        |        -      | [Paper](https://arxiv.org/pdf/2004.02872.pdf)            | [Code](https://github.com/caoscott/SReC)              | -      |
 
 
 2.  **Low-rate Image Compression with Super-resolution Learning**, 
