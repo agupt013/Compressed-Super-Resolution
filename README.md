@@ -2,7 +2,7 @@
 
 Curated list of papers for compressed super-resolution
 
-### Compressed Image Super-Resolution
+### Compressed Super-Resolution: Image
 
 | Title                  | Model                  | Published                                                    | Code                                                         | Keywords                                                     |
 | ---------------------- | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
